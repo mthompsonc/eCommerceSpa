@@ -182,3 +182,187 @@
   "stock": "7"
   },
 ],
+"scrapbook": [
+  {
+  "img": "https://image.ibb.co/e8DD2c/0_scrapbook.jpg",
+  "name": "Perforadora con Bordes Intercambiables Rosa",
+  "price": "$9.990",
+  "description": "Perforadora con bordes intercambiables de la colección Knock Outs de American Crafts. Los cartuchos son muy fáciles de cambiar ya que simplemente se encajan a presión en la base de la perforadora. De esta forma tienes 6 bordes diferentes para decorar tus papeles. Este espectacular kit contiene una perforadora, seis bordes intercambiables, 12 guías con forma de ala y un práctico estuche para su guardado y traslado. Es un regalo perfecto para cualquier aficionada al scrap o las manualidades.",
+  "category": "scrapbook",
+  "code": "AMC-368217",
+  "stock": "10"
+  },
+  {
+  "img": "https://image.ibb.co/gKcHTH/1_scrapbook.jpg",
+  "name": "Set de Timbres",
+  "price": "$2.990",
+  "description": "Set incluye: 6 timbres de madera con base de goma, perfectos para Scrapbooking. 30mm de diámetro",
+  "category": "scrapbook",
+  "code": "3212872000027", 
+  "stock": "5"
+  },
+  {
+  "img": "https://image.ibb.co/jJPLhc/2_scrapbook.jpg",
+  "name": "Set Hojas de Papel Gather",
+  "price": "$13.990",
+  "description": "¡La adición perfecta para todos tus proyectos de diseño! Estas hojas para scrapbook reversibles vienen con diferentes diseños. Puedes encontrarlas en diversas variedades. Set hojas cartulina gruesa opaca reversible impresa con diferente diseño por tiro y retiro. Libre de ácido. Traído de USA. 305 x 305 mm 305grs",
+  "category": "stock",
+  "code": "AMC-375868",
+  "stock": "13"
+  },
+  {
+  "img": "https://image.ibb.co/mdtroH/3_scrapbook.jpg",
+  "name": "Set de Stickers",
+  "price": "$3.990",
+  "description": "Set incluye: 5 hojas de stickers. Dimensiones: 150 x 210 mm",
+  "category": "scrapbook",
+  "code": "3212326000023",
+  "stock": "15"
+  },
+  {
+  "img": "https://image.ibb.co/hdvhvx/4_scrapbook.jpg",
+  "name": "Washi Tape Diseños Dorados",
+  "price": "$1.490",
+  "description": "Cinta adhesiva decorativa. 7 metros cada una, ancho 8mm",
+  "category": "scrapbook",
+  "code": "3210031000048",
+  "stock": "28"
+  },
+  {
+  "img": "https://image.ibb.co/hCwNvx/5_scrapbook.jpg",
+  "name": "Set de Clips",
+  "price": "$2.990",
+  "description": "Set incluye: 4 clips de metal color cobre.",
+  "category": "scrapbook",
+  "code": "3212861000014",
+  "stock": "17"
+  },
+  {
+  "img": "https://image.ibb.co/cwMBoH/6_scrapbook.jpg",
+  "name": "Washi Tape Diseños Simples",
+  "price": "$1.200",
+  "description": "Washi tapes con diferentes diseños.",
+  "category": "scrapbook",
+  "code": "3212861000689",
+  "stock": "14"
+  },
+  {
+  "img": "https://image.ibb.co/cTzLhc/7_scrapbook.jpg",
+  "name": "Perforadora Punch WR Diseño Bracket",
+  "price": "$6.990",
+  "description": "La perforadora Mini 8 Punch de We R Memory Keepers es perfecta para utilizar con papeles de 15 x 15 cm. Transforma tu papel en 8 sencillos pasos. Se trata de una perforada de corte exacto. Es ideal para trabajos de scrapbooking y para confeccionar tarjetas. Crea y decora esquinas en cualquier tamaño de papel.",
+  "category": "scrapbook",
+  "code": "AMC-71298-5",
+  "stock": "3"
+  },
+  {
+  "img": "https://image.ibb.co/nOumNc/8_scrapbook.jpg",
+  "name": "Set de Agujas Stitch Happy para Scrapbooking",
+  "price": "$6.990",
+  "description": "Set de seis agujas especialmente diseñadas para confección en distintos medios para utilizar con la máquina de coser Stitch Happy. Contiene tres agujas grandes #18 y tres #21 para hilos más gruesos con revestimiento para evitar pérdida de filo.",
+  "category": "scrapbook",
+  "code": "AMC-660394",
+  "stock": "6"
+  },
+  {
+  "img": "https://image.ibb.co/cdq48H/9_scrapbook.jpg",
+  "name": "Set Banner para Coser Stitch Happy",
+  "price": "$5.990",
+  "description": "Un increíble kit diseñado por We R Memory Keepers para coser piezas únicas. Contiene 12 banners de papel, 12 círculos de papel decorativos, 4 frases para celebrar (celebrate, welcome, congrats y baby) 3 corazones y 3 círculos de fieltro. ",
+  "category": "scrapbook",
+  "code": "AMC-660316",
+  "stock": "23"
+  },
+],
+"accessories": [
+  {
+  "img": "https://image.ibb.co/kDkzax/0_accesorios.jpg",
+  "name": "Marcapaginas Gudetama Papel",
+  "price": "$1.600",
+  "description": "Set de marcapaginas de papel con diseños de Gudetama. Cada paquetito trae 6 marca paginas y vienen 6 diseños diferentes. No como en la foto que estan ordenados por tipo. Cada paquete trae todos los diseños de la foto.",
+  "category": "accesorios",
+  "code": "ACMPGD",
+  "stock": "6"
+  },
+  {
+  "img": "https://image.ibb.co/mPjE8H/1_accesorios.jpg",
+  "name": "Estuche Gudetama",
+  "price": "$2.800",
+  "description": "Estuches con diseños de Gudetama. El material es pvc. Dimensiones: 222 x 180 mm",
+  "category": "accesorios",
+  "code": "23332439069",
+  "stock": "12"
+  },
+    {
+  "img": "https://image.ibb.co/guLMoH/2_accesorios.jpg",
+  "name": "Billetera Mi Vecino Totoro",
+  "price": "$3.990",
+  "description": "Billetera de Mi Vecino Totoro. El material es PU. Dimensiones: 130 x 100 mm",
+  "category": "accesorios",
+  "code": "23332439001",
+  "stock": "6"
+  },
+    {
+  "img": "https://image.ibb.co/hvJkFx/3_accesorios.jpg",
+  "name": "Pantuflas Pusheen",
+  "price": "$14.000",
+  "description": "Pantuflas tamaño standard para adultos, de unos 37 a 39 aprox en numero. Abiertas pero muy acolchaditas de Pusheen.",
+  "category": "accesorios",
+  "code": "ACPNPS",
+  "stock": "4"
+  },
+  {
+  "img": "https://image.ibb.co/dTVMoH/4_accesorios.jpg",
+  "name": "Bento",
+  "price": "$7.000",
+  "description": "Bento o lonchera de Hello Kitty o Doraemon. Es hermético, trae un compartimiento dentro para separar la comida y un tenedor.",
+  "category": "accesorios",
+  "code": "4956985235066",
+  "stock": "9"
+  },
+  {
+  "img": "https://image.ibb.co/f3QnTH/5_accesorios.jpg",
+  "name": "Billetera de Gatos",
+  "price": "$3.990",
+  "description": "Billetera de gatitos. El material principal es PU. Dimensiones: 94 x 110 x 25 mm",
+  "category": "accesorios",
+  "code": "23332000098",
+  "stock": "2"
+  },
+  {
+  "img": "https://image.ibb.co/gSW5Fx/6_accesorios.jpg",
+  "name": "Mochila Holográfica Sakura",
+  "price": "$13.000",
+  "description": "Mochila holográfica de Sakura cardcaptor. Tiene una capacidad de 20-35L, con tres bolsillos exteriores y uno interior. ",
+  "category": "accesorios",
+  "code": "4956985235067",
+  "stock": "1"
+  },
+  {
+  "img": "https://image.ibb.co/j49E8H/7_accesorios.jpg",
+  "name": "Funda para Notebook",
+  "price": "$18.000",
+  "description": "Parte delantera estampada, parte trasera negra. El exterior de poliéster y el acolchado interior protegerán tu portátil de arañazos y pequeños golpes. Cremallera, acolchado interior y acabados en negro. Se limpian fácilmente con un paño húmedo.",
+  "category": "accesorios",
+  "code": "4956985230003",
+  "stock": "17"
+  },
+  {
+  "img": "https://image.ibb.co/b1CO2c/8_accesorios.jpg",
+  "name": "Set de clips",
+  "price": "$2.690",
+  "description": "Set incluye los 4 clips de la foto",
+  "category": "accesorios",
+  "code": "4956985230005",
+  "stock": "14"
+  },
+  {
+  "img": "https://image.ibb.co/cK8Kax/9_accesorios.jpg",
+  "name": "Set Marcapáginas magneto",
+  "price": "$2.690",
+  "description": "Set incluye 4 marcapáginas con imán",
+  "category": "accesorios",
+  "code": "4956985230091",
+  "stock": "8"
+  },
+]
