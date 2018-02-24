@@ -146,7 +146,7 @@
   "stock": "3"
   },
   {
-  "img": "",
+  "img": "https://image.ibb.co/neXvFx/pluma_lettering_creative_devotion.jpg",
   "name": "Plumas para Lettering Tinta Negra",
   "price": "$ 3.290",
   "description": "Una pluma de la colección Creative Devotion de American Crafts especial para lettering. Es perfecta para escribir y diseñar sobre papel fino estilo Biblia. Producto no tóxico, libre de ácidos.",
@@ -155,30 +155,30 @@
   "stock": "6"
   },
   {
-  "img": "",
-  "name": "",
-  "price": "",
-  "description": "",
-  "category": "",
-  "code": "",
-  "stock": ""
+  "img": "https://image.ibb.co/dCknTH/boligrafo_geo_pastel.jpg",
+  "name": "Bolígrafo Softly Geo",
+  "price": "$ 3.990",
+  "description": "Espectacular bolígrafo de la nueva colección de Blueprint, Studio Note. Cuenta con un diseño moderno inspirado en líneas geométricas con colores pasteles y detalles en oro.",
+  "category": "pencils",
+  "code": "BLU-SNSG1729",
+  "stock": "10"
   },
   {
-  "img": "",
-  "name": "",
-  "price": "",
-  "description": "",
-  "category": "",
-  "code": "",
-  "stock": ""
+  "img": "https://image.ibb.co/m0QAhc/set_plumones_doble_punta_varios_colores.jpg",
+  "name": "Set Plumones Doble Punta Varios Colores",
+  "price": "$ 31.990",
+  "description": "Set de 24 marcadores de la serie profesional de Peter Pauper Press. Cuentan con doble punta, fina y pincel, que permite trabajar detalles y colorear grandes espacios. Perfectos para ilustraciones, diseños, sketching, crafting, dibujos, caricaturas y mucho más. Se pueden utilizar en papel, tela, vidrio, madera, metal y cerámica. Son ideales para utilizar con papel de alta calidad y densidad. Cada marcador mide 15 centímetros de largo. Medidas: 1.02 x 16.5 x 8.9 cm.",
+  "category": "pencils",
+  "code": "PPA-8411",
+  "stock": "8"
   },
   {
-  "img": "",
-  "name": "",
-  "price": "",
-  "description": "",
-  "category": "",
-  "code": "",
-  "stock": ""
+  "img": "https://image.ibb.co/k6QMoH/kit_pluma_jane_davenport.jpg",
+  "name": "Kit Pluma de Tinta Jane Davenport",
+  "price": "$ 6.990",
+  "description": "Increíble kit de pluma y cartuchos de la artista australiana Jane Davenport. La pluma cuenta con un estilo clásico y una punta fina perfecta para crear líneas precisas. Incluye tres cartuchos de tinta y un adaptador para cargar tinta. Medidas: 8.25 x 21.59 cm.",
+  "category": "pencils",
+  "code": "AMC-376371",
+  "stock": "7"
   },
 ],
