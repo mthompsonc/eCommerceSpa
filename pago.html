@@ -14,9 +14,11 @@ cualquier numero de mes, año de expiracion creible ex: 18, 19
 <br>
 precio : 20.00USD
 <form class='pay' method='POST' method="post" action="javascript:alert('Your payment was successful')">
+  <script src='https://checkout.stripe.com/checkout.js' class='stripe-button' data-key='pk_test_LMeQ66Q4hSaSh774qEv4EzwZ'" data-image='/images/marketplace.png' data-name='SPA test' data-description='test de compra de 1 producto' data-amount='2000' data-label='Buy'></script>
 </form>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="data.js"></script>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/payment.js"></script>
 </body>
 </html>
