@@ -1,5 +1,5 @@
-  {
-  "name": "Cuaderno Anillado Globo Aerostático",
+ {
+  "title": "Cuaderno Anillado Globo Aerostático",
   "image": "https://image.ibb.co/kCfvYH/1_200.png",
   "large_image": "https://image.ibb.co/ekKNDH/1_500.png",
   "price": 8.990,
@@ -9,7 +9,7 @@
   "stock": "5"
   },
   {
-  "name": "Cuaderno My unicorn ate my homework",
+  "title": "Cuaderno My unicorn ate my homework",
   "image": "https://image.ibb.co/mLjB7c/2_200.png",
   "large_image":"https://image.ibb.co/dtPYLx/2_500.png",
   "price": 3.500,
@@ -19,7 +19,7 @@
   "stock": "10"
   },
   {
-  "name": "Cuadernos American Crafts Memory Planner",
+  "title": "Cuadernos American Crafts Memory Planner",
   "image": "https://image.ibb.co/eWGutH/3_200.png",
   "large_image": "https://image.ibb.co/hAHZtH/3_500.png",
   "price": 3.500,
@@ -29,7 +29,7 @@
   "stock": "10"
   },
   {
-  "name": "Cuaderno Psyco, but cute.",
+  "title": "Cuaderno Psyco, but cute.",
   "image": "https://image.ibb.co/hPeQ0x/4_200.png",
   "large_image": "https://image.ibb.co/iixpSc/4_500.png",
   "price": 3.000,
@@ -39,7 +39,7 @@
   "stock": "6"
   },
   {
-  "name": "Block Chico The Fun Stuff",
+  "title": "Block Chico The Fun Stuff",
   "image": "https://image.ibb.co/fN43nc/5_200.png",
   "large_image": "https://image.ibb.co/eQy7DH/5_500.png",
   "price": 3.290,
@@ -49,7 +49,7 @@
   "stock": "2"
   },
   {
-  "name": "Libreta diseño por Mauro Gómez",
+  "title": "Libreta diseño por Mauro Gómez",
   "image": "https://image.ibb.co/i0U8Lx/6_200.png",
   "large_image":"https://image.ibb.co/bPxTLx/6_500.png",
   "price": 5.900,
@@ -59,7 +59,7 @@
   "stock": "12"
   },
   {
-  "name": "Block Chico Magnético Fucsia Life Moves",
+  "title": "Block Chico Magnético Fucsia Life Moves",
   "image": "https://image.ibb.co/fUGzSc/7_200.png",
   "large_image": "https://image.ibb.co/hvvtnc/7_500.png",
   "price": 3.990,
@@ -69,7 +69,7 @@
   "stock": "5"
   },
   {
-  "name": "Pack 3 Cuadernos Ilustrados",
+  "title": "Pack 3 Cuadernos Ilustrados",
   "image": "https://image.ibb.co/jKgoLx/8_200.png",
   "large_image": "https://image.ibb.co/e4sQYH/8_500.png",
   "price": 7.990,
@@ -79,7 +79,7 @@
   "stock": "notebooks"
   },
   {
-  "name": "Libreta Fuchsia Blooms",
+  "title": "Libreta Fuchsia Blooms",
   "image": "https://image.ibb.co/ktCg7c/9_200.png",
   "large_image": "https://image.ibb.co/kt2QYH/9_500.png",
   "price": 6.990,
@@ -89,8 +89,8 @@
   "stock": "15"
   },
   {
-  "name": "Cuaderno Flamencos",
-  "img": "https://image.ibb.co/c8rr7c/10_200.png",
+  "title": "Cuaderno Flamencos",
+  "image": "https://image.ibb.co/c8rr7c/10_200.png",
   "large_image": "https://image.ibb.co/bTo4Sc/10_500.png",
   "price": 3.990,
   "description": "Cuaderno con una encuadernación rústica, para que anotes lo que quieras. Medidas 18 x 15.6 x 1 cm.",
@@ -99,7 +99,7 @@
   "stock": "19"
   },
   {
-  "name": "Perforadora con Bordes Intercambiables Rosa",
+  "title": "Perforadora con Bordes Intercambiables Rosa",
   "image": "https://image.ibb.co/bVC3Lx/11_200.png",
   "large_image": "https://image.ibb.co/cCs3Lx/11_500.png",
   "price": 9.990,
@@ -109,7 +109,7 @@
   "stock": "10"
   },
   {
-  "name": "Set de Timbres",
+  "title": "Set de Timbres",
   "image": "https://image.ibb.co/ekWcVx/12_200.png",
   "large_image": "https://image.ibb.co/feqhxc/12_500.png",
   "price": 2.990,
@@ -119,7 +119,7 @@
   "stock": "5"
   },
   {
-  "name": "Set Hojas de Papel Gather",
+  "title": "Set Hojas de Papel Gather",
   "image": "https://image.ibb.co/fx3kHc/13_200.png",
   "large_image":"https://image.ibb.co/mg6GOH/13_500.png",
   "price": 13.990,
@@ -129,7 +129,7 @@
   "stock": "13"
   },
   {
-  "name": "Set de Stickers",
+  "title": "Set de Stickers",
   "image": "https://image.ibb.co/hEKLiH/14_200.png",
   "large_image": "https://image.ibb.co/cek4Ax/14_500.png",
   "price": 3.990,
@@ -139,7 +139,7 @@
   "stock": "15"
   },
   {
-  "name": "Washi Tape Diseños Dorados",
+  "title": "Washi Tape Diseños Dorados",
   "image": "https://image.ibb.co/dsDPAx/15_200.png",
   "large_image": "https://image.ibb.co/cmZaHc/15_500.png",
   "price": 1.490,
@@ -149,7 +149,7 @@
   "stock": "28"
   },
   {
-  "name": "Set de Clips",
+  "title": "Set de Clips",
   "image": "https://image.ibb.co/fAGGOH/16_200.png",
   "large_image": "https://image.ibb.co/hjikHc/16_500.png",
   "price": 2.990,
@@ -159,7 +159,7 @@
   "stock": "17"
   },
   {
-  "name": "Washi Tape Diseños Simples",
+  "title": "Washi Tape Diseños Simples",
   "image": "https://image.ibb.co/m6q4Ax/17_200.png",
   "large_image": "https://image.ibb.co/f8VFHc/17_500.png",
   "price": 1.200,
@@ -169,7 +169,7 @@
   "stock": "14"
   },
   {
-  "name": "Perforadora Punch WR Diseño Bracket",
+  "title": "Perforadora Punch WR Diseño Bracket",
   "image": "https://image.ibb.co/jUOViH/18_200.png",
   "large_image": "https://image.ibb.co/dHUgqx/18_500.png",
   "price": 6.990,
@@ -179,7 +179,7 @@
   "stock": "3"
   },
   {
-  "name": "Set de Agujas Stitch Happy para Scrapbooking",
+  "title": "Set de Agujas Stitch Happy para Scrapbooking",
   "image": "https://image.ibb.co/jRnsVx/19_200.png",
   "large_image":"https://image.ibb.co/k0VCVx/19_500.png",
   "price": 6.990,
@@ -189,7 +189,7 @@
   "stock": "6"
   },
   {
-  "name": "Set Banner para Coser Stitch Happy",
+  "title": "Set Banner para Coser Stitch Happy",
   "image": "https://image.ibb.co/gdw2Vx/20_200.png",
   "large_image": "https://image.ibb.co/g5wQiH/20_500.png",
   "price": 5.990,
