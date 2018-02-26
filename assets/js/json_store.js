@@ -6,7 +6,7 @@
 
     this.around(function(callback) {
       var context = this;
-      this.load('data/items.json')
+      this.load('data/data.json')
           .then(function(items) {
             context.items = items;
           })
