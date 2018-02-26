@@ -81,5 +81,10 @@ img {
 .item-price{
   font-size: 14px;
   font-weight: bold;
-  color:#7F7F7F;
+  color:#464646;
+  margin-bottom: 1em;
+}
+
+.dblock{
+  display: inline-block;
 }

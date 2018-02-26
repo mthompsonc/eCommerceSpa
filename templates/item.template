@@ -4,7 +4,7 @@
       <img src="<%= item.image %>" alt="<%= item.title %>" />
     </div>
     <div class="row">
-      <h5 class="item-artist"><%= item.name %></h5>
+      <h5 class="item-artist"><%= item.title %></h5>
       <p class="item-price">$<%= item.price %></p>
     </div>
   </a>
