@@ -68,3 +68,19 @@
     app.run('#/');
   });
 })(jQuery);
+
+/*
+* botón de pagp por Stripe, se puso en item_detail.template
+* el botón llama al servidor de stripe con la API (data key)
+* de prueba que el sitio entrega a los desarrolladores
+* para que funcione hay que ingresar el número de TC de prueba
+* 4242 4242 4242 4242 más una fecha de vencimiento creíble
+* y 3 digitos al azar
+$(".pay").append("<script src='https://checkout.stripe.com/checkout.js'" + "class='stripe-button'" +
+    "data-key='pk_test_LMeQ66Q4hSaSh774qEv4EzwZ'" +
+    "data-image='/images/marketplace.png'" +
+    "data-name='SPA test'" +
+    "data-description='test de compra de 1 producto'" +
+    "data-amount='2000'" +
+    "data-label='Buy'></script>")
+*/
