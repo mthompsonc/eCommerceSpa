@@ -1,8 +1,12 @@
 <div class="item-detail">
-  <div class="item-image"><img src="<%= item.large_image %>" alt="<%= item.title %>" /></div>
+  <div class="item-image"><img src="<%= item.large_image %>" alt="<%= item.name %>" /></div>
   <div class="item-info">
-    <div class="item-artist"><%= item.artist %></div>
-    <div class="item-title"><%= item.title %></div>
+    <div class="item-artist"><%= item.category %></div>
+    <br>
+    <div class="item-title"><%= item.name %></div>
+    <br>
+    <div class="item-description"><%= item.description %></div>
+    <br>
     <div class="item-price">$<%= item.price %></div>
     <div class="item-form">
       <form action="#/cart" method="post">
