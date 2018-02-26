@@ -30,7 +30,7 @@
     this.post('#/cart', function(context) {
       var item_id = this.params['item_id'];
       // fetch the current cart
-      var cart  = this.session('cart', function() {
+      var cart = this.session('cart', function() {
         return {};
       });
       if (!cart[item_id]) {
