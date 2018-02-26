@@ -19,7 +19,7 @@
       </form>
     </div>
     <form class='pay' method='POST' method="post" action="javascript:alert('Your payment was successful')">
-  <script src='https://checkout.stripe.com/checkout.js' class='stripe-button' data-key='pk_test_LMeQ66Q4hSaSh774qEv4EzwZ'" data-image='<%= item.image %>' data-name='<%= item.name %>' data-description='<%= item.description %>' data-amount='<%= item.price %>' data-label='Buy'></script>
+  <script src='https://checkout.stripe.com/checkout.js' class='stripe-button' data-key='pk_test_LMeQ66Q4hSaSh774qEv4EzwZ'" data-image='<%= item.image %>' data-name='<%= item.name %>' data-description='<%= item.description %>' data-amount='<%= (item.price * 100) %>' data-label='Buy'></script>
 </form>
 
     <div class="back-link"><a href="#/">&laquo; Back to Items</a></div>
