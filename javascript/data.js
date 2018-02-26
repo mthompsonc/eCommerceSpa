@@ -29,7 +29,7 @@
   "stock": "10"
   },
   {
-  "title": "Cuaderno Psyco, but cute.",
+  "title": "Cuaderno Psycho, but cute.",
   "image": "https://image.ibb.co/hPeQ0x/4_200.png",
   "large_image": "https://image.ibb.co/iixpSc/4_500.png",
   "price": 3.000,
