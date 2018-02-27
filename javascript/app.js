@@ -1,5 +1,7 @@
 (function($) {
+  //inicializa sammy en #main
   var app = $.sammy('#main', function() {
+    //sammy puede usar el plugin template y session en main
     this.use('Template');
     this.use('Session');
     this.around(function(callback) {
@@ -25,7 +27,7 @@
           });
         })
         .catch(function(error) {
-          // Handle Errors here.
+          // los errores van aquí.
           var errorCode = error.code;
           var errorMessage = error.message;
         });
@@ -37,7 +39,7 @@
       var emailLog = $('#inputEmailLog').val();
       var passLog = $('#inputPassLog').val();
       firebase.auth().signInWithEmailAndPassword(emailLog, passLog).catch(function(error) {
-        // Handle Errors here.
+        // los errores van aquí.
         var errorCode = error.code;
         var errorMessage = error.message;
       });
@@ -50,20 +52,20 @@
           $('#logOut').show();
           $('#logIn').hide();
           $('#register').hide();
-          // User is signed in.
+          // el usuario ingresó
         } else {
           $('.cart-info').hide();
           $('#logOut').hide();
           $('#logIn').show();
           $('#register').show();
-          // User is signed out.
+          // el usuario salió
           // ...
         }
       });
     }; // fin funcion observador
     observardor();
 
-    // Log out
+    // desconectar
     $('#logOut').click(function() {
       firebase.auth().signOut().then(function() {
       });
@@ -75,17 +77,21 @@
       var auth = firebase.auth();
       var emailAddress = prompt('Enter your E-mail address');
       auth.sendPasswordResetEmail(emailAddress).then(function() {
-        // Email sent.
+        // enviar mail
       }).catch(function(error) {
       });
-    }); // fin funcion click en forgot pass
+    }); // fin funcion click en olvidar contraseña
 
-    // email validation
+    // validación de email
     function validateEmail($email) {
       var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
       return emailReg.test($email);
     }
-
+/*
+* ruta basica #, cuando el navegador está en #, la
+* funcion que definimos se ejecutará en un contexto sammy
+* muestra los items que están en la data appeneada en template
+*/
     this.get('#/', function(context) {
       context.app.swap('');
       $.each(this.items, function(i, item) {
@@ -107,21 +113,21 @@
 
     this.post('#/cart', function(context) {
       var itemId = this.params['item_id'];
-      // fetch the current cart
+      // fetch al carro actual
       var cart = this.session('cart', function() {
         return {};
       });
       if (!cart[itemId]) {
-        // this item is not yet in our cart
-        // initialize its quantity with 0
+        // este item no está aún en el carro
+        // inicializa la cantidad con 0
         cart[itemId] = 0;
       }
       cart[itemId] += parseInt(this.params['quantity'], 10);
-      // store the cart
+      // almacena el carro
       this.session('cart', cart);
       this.trigger('update-cart');
     });
-
+// funcion para actualizar carro
     this.bind('update-cart', function() {
       var sum = 0;
       $.each(this.session('cart') || {}, function(id, quantity) {
@@ -134,7 +140,7 @@
     });
 
     this.bind('run', function() {
-      // initialize the cart display
+      // muestra el carro actualizado
       this.trigger('update-cart');
     });
   });
