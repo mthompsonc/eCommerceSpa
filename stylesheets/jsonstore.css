@@ -1,5 +1,5 @@
 /******************************************************
- *  json store                 *
+ *  json store  *
 \*****************************************************/
 body {
   font-family: "Lucida Grande", Lucida, Helvetica, Arial, sans-serif;
@@ -10,7 +10,14 @@ body {
 }
 
 #header {
-  background: #C97E41;
+  background: rgba(68,102,154,1);
+background: -moz-linear-gradient(top, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(68,102,154,1)), color-stop(100%, rgba(85,126,187,1)));
+background: -webkit-linear-gradient(top, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
+background: -o-linear-gradient(top, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
+background: -ms-linear-gradient(top, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
+background: linear-gradient(to bottom, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44669a', endColorstr='#557ebb', GradientType=0 );
   margin: 0px;
   padding: 20px;
   margin-bottom: 3em;
@@ -26,7 +33,7 @@ body {
   right: 0px;
   text-align: right;
   padding: 10px;
-  background: #714625;
+  background: #44669A;
   color: #FFF;
   font-size: 12px;
   font-weight: bold;
