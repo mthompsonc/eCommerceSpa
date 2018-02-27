@@ -75,7 +75,7 @@
 
     $('#forgotPass').click(function() {
       var auth = firebase.auth();
-      var emailAddress = prompt('Enter your E-mail address');
+      var emailAddress = prompt('Ingresa tu correo electrónico');
       auth.sendPasswordResetEmail(emailAddress).then(function() {
         // enviar mail
       }).catch(function(error) {
