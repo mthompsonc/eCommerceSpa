@@ -27,15 +27,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44669a', end
   color: #FFF;
   margin: 0px;
 }
-#header .cart-info {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: right;
-  padding: 10px;
-  background: #44669A;
-  color: #FFF;
-  font-size: 12px;
+
+.cart-info {
+  background: #fff;
+  color: #000;
+  font-size: 1em;
+  padding: 1em;
   font-weight: bold;
 }
 img {
@@ -94,4 +91,8 @@ img {
 
 .dblock{
   display: inline-block;
+}
+
+.nav {
+  padding: 1.4em;
 }
