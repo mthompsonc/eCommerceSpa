@@ -17,6 +17,9 @@ Se utilizaron dos templates que corresponden a las siguientes vistas de la pági
 * Carrito de Compras con Log in
 ![img](https://image.ibb.co/eoYEDH/login_carrito.png)
 
+* Modal de botón de compra
+![img](https://image.ibb.co/btFmtH/screencapture_localhost_8080_1519733006154.png)
+
 ##### Proyecto realizado por:
   - Maria Paz Thompson
   - Paulina Baeza
