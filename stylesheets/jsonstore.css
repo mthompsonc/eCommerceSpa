@@ -19,7 +19,7 @@ background: -ms-linear-gradient(top, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 1
 background: linear-gradient(to bottom, rgba(68,102,154,1) 0%, rgba(85,126,187,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44669a', endColorstr='#557ebb', GradientType=0 );
   margin: 0px;
-  padding: 20px;
+  padding: 10px;
   margin-bottom: 3em;
 }
 #header h1 {
